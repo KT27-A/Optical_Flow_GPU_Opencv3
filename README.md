@@ -1,4 +1,4 @@
-# Optical_Flow_GPU_Opencv3
+# Optical_Flow_Extraction_GPU_Opencv3
 Extracting optical flow based on GPU in Opencv3
 
 ### Preface
